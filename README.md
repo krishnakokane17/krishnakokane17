@@ -13,14 +13,15 @@ I am a software developer with a passion for learning and building innovative so
 - BSc Computer Science, Sri Sri University, 2021-2024
 - 12th in Science, Elphinstone College, 2020-2021
 
-![Your Github stats:] (https://github-readme-stats.vercel.app/api?username=krishnakokane17&show_icons=true&theme=radical)
-
 ## Skills
 - Programming Languages: Python, Java, C/C++
 - Web Development: HTML, CSS, MERN Stack
 - Database: MongoDB
 - Tools & Technologies: GitHub, Notion, Docker, Figma, Oracle VM Virtual Box, Kali Linux
 - Others: Scratch, MS Excel, DSA in C/C++, English, Marathi, Hindi, Kokni (Manglore), Odia
+
+## Github Stats
+![Your Github Stats:](https://github-readme-stats.vercel.app/api?username=krishnakokane17&show_icons=true&theme=radical)
 
 ## Certifications
 - Harvard CS50
