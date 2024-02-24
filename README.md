@@ -5,6 +5,8 @@ Navi Mumbai
 📞 7738088360  
 📧 krishnakokane17@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/krishna-kokane-18399a280)
+📷 [Instagram](https://www.instagram.com/krishnaaa17.7/)
+💬 [WhatsApp](https://wa.me/7738088360/)
 
 ## About Me
 I am a software developer with a passion for learning and building innovative solutions. My educational background includes a BSc in Computer Science from Sri Sri University. I have a solid foundation in various programming languages and technologies, with a keen interest in web development and database management.
