@@ -17,7 +17,7 @@ I am a software developer with a passion for learning and building innovative so
 
 ## Skills
 - Programming Languages: Python, Java, C/C++
-- Web Development: HTML, CSS, MERN Stack
+- Web Development: HTML, CSS
 - Database: MongoDB
 - Tools & Technologies: GitHub, Notion, Docker, Figma, Oracle VM Virtual Box, Kali Linux
 - Others: Scratch, MS Excel, DSA in C/C++, English, Marathi, Hindi, Kokni (Manglore), Odia
@@ -27,9 +27,12 @@ I am a software developer with a passion for learning and building innovative so
 
 ## Certifications
 - Harvard CS50
+- 
 
 ## Projects
-- Currently Learning MERN Stack
+- Prediction of mines using sonar radiation. (ML Project)
+- House price prediction. (ML Project)
+- Used car price prediction model. (ML Project)
 
 ## Achievements
 - Completed Fundamentals of MongoDB course which helped in understanding the basics of databases.
