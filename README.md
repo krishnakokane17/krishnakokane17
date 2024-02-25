@@ -1,6 +1,6 @@
 # Krishna Kokane
 
-Software Developer  
+AI/ML Software Developer  
 Navi Mumbai  
 📞 7738088360  
 📧 krishnakokane17@gmail.com  
